@@ -1,4 +1,4 @@
-# IneuronAssignment3
+# Ineuron Assignment 3
 This is Ineuron Assignment 3
 • Use the Employee Details dataset and perform the following activities: - 
  
