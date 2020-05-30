@@ -10,3 +10,6 @@ This is Ineuron Assignment 3
 − Using the JOINING DATE column extract the Year and no. of days for that month . 
  
 − Create a visual of your choice and show the how much salary has been paid to each state and which state has lowest payout. 
+
+# which state has lowest payout
+# Solution : Chandigarh and Assam
